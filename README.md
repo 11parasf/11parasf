@@ -84,20 +84,7 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=8A2BE2&center=true&vCenter=true&width=900&lines=Not+a+vibe+coder+%E2%9A%A1;I+build+from+scratch+using+my+own+logic+%F0%9F%A7%A0;Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Learn+%E2%86%92+Repeat+%F0%9F%94%A5"/>
-</p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:8a2be2&height=110&section=header&text=Not%20a%20Vibe%20Coder%20%E2%9A%A1%20I%20Build%20From%20Scratch&fontSize=22&fontColor=ffffff&animation=twinkling"/>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
 
-<p align="center"><b>⚡ Not a vibe coder — I build, break, fix, and improve with my own logic.</b></p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212897014-4ec5be62-0c0b-4b31-b2d2-7b75b7c0a4d9.gif" width="700" />
-</p>
-
-<p align="center"><b>Not a vibe coder ⚡ I build everything with my own brain + hustle.</b></p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:8a2be2&height=110&section=header&text=Not%20a%20Vibe%20Coder%20%E2%9A%A1%20I%20Build%20From%20Scratch&fontSize=22&fontColor=ffffff&animation=twinkling"/>
 
 <p align="center">
