@@ -1,110 +1,121 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Poonia</h1>
-<h3 align="center">C++ Developer | DSA Learner | Web Dev | Building Real Projects 🚀</h3>
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:8a2be2&height=220&section=header&text=Priyanshu%20Poonia&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<h3 align="center">🚀 C++ Developer | DSA Learner | Web Development | Building Real Projects</h3>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Learning+C%2B%2B+Deeply+%F0%9F%94%A5;Solving+DSA+Daily+%E2%9C%85;Building+Projects+for+Top+Companies+%F0%9F%9A%80;Goal%3A+Google+%2F+Microsoft+%F0%9F%92%BB;Consistency+%3E+Motivation+%F0%9F%92%AA"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/11parasf">
-    <img src="https://komarev.com/ghpvc/?username=11parasf&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=11parasf&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  </a>
+  <a href="https://github.com/11parasf?tab=followers">
+    <img src="https://img.shields.io/github/followers/11parasf?label=Followers&style=for-the-badge&color=8a2be2" />
+  </a>
+  <a href="https://github.com/11parasf?tab=stars">
+    <img src="https://img.shields.io/github/stars/11parasf?label=Stars&style=for-the-badge&color=ffcc00" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me  
+## 👋 About Me  
 
-🔥 I'm a **C++ focused developer** aiming for **top tech companies (Google/Microsoft)**.  
-🚀 I’m currently working on **DSA + Projects** and building strong GitHub presence.  
-🎯 My goal is to become **job-ready in 1 year** with a strong portfolio.
+🎯 I’m **Priyanshu Poonia**, focused on becoming a **top-level C++ developer**.  
+🔥 My main target is cracking **Google/Microsoft** within **1 year** using:
 
-✅ What I’m focused on right now:  
-- ⚡ **C++ (Advanced) + OOP + STL**
-- 📌 **DSA (Striver Sheet + LeetCode)**
-- 🌐 **Web Development (Frontend + Backend)**
-- 🧠 **System Design (coming soon)**
-- 🛠️ Building cool projects like **Calculator / Inventory System / Game & Engine Systems**
+✅ **C++ + OOP + STL**  
+✅ **DSA (Striver Sheet + Practice)**  
+✅ **Projects (Real-world + Resume Ready)**  
+✅ **Web Development (Side skill for freelancing + portfolio)**  
+
+⚡ I believe in: **Build → Learn → Improve → Repeat** 🚀
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### 💻 Programming  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🌐 Web Development  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 🗄️ Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js,nodejs,git,github,linux,vscode&perline=6" />
+</p>
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Projects I'm Building  
 
-✅ Here are some projects I’m building / improving:
+✅ **Inventory Management System (C++ / Web version planned)**  
+✅ **iPhone Style Calculator (C++ + Raylib/SFML)**  
+✅ **DSA Practice Repo (Striver + Optimized Solutions)**  
+✅ **Physics Engine in C++ (Work in progress)**  
+✅ **Portfolio Website (Figma → Web)**  
 
-📌 **Inventory Management System (C++ + Backend Idea)**  
-🔹 Version 1: Desktop (C++ focused)  
-🔹 Version 2: Web + Backend integration  
+📌 *All projects will be documented with proper README + screenshots + clean code.*
 
-📌 **iPhone Style Calculator (C++ + Raylib/SFML)**  
-🔹 Clean UI + smooth interaction  
-🔹 Real calculator logic
+---
 
-📌 **DSA Practice Repository**  
-🔹 Striver Sheet progress  
-🔹 Interview-ready explanations + optimized solutions  
+## 🏆 GitHub Trophies  
 
-📌 **Physics Engine (C++ - Work in Progress)**  
-🔹 Rigid body basics  
-🔹 Collision system (future scope)
-
-> ⚡ I believe in learning by **building real systems**, not just tutorials.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=11parasf&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=11parasf&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=11parasf&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=11parasf&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=11parasf&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11parasf&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11parasf&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🧠 DSA + Coding Practice  
+## 📈 Contribution Graph  
 
-✅ I practice daily and improve with consistency:  
-- 🔥 Striver DSA Sheet  
-- ✅ LeetCode + Codeforces style learning  
-- 📌 Strong focus on problem-solving in **C++**
-
----
-
-## 📈 Current Goals  
-
-🎯 2026 Target: **Crack top company interviews**  
-✅ Build strong GitHub portfolio + LinkedIn presence  
-✅ Master C++ + DSA + Projects + System Design
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=11parasf&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-## 🤝 Connect With Me  
+## 🐍 Snake Eating My Contributions (Animation)  
 
-📌 GitHub: **[@11parasf](https://github.com/11parasf)**  
-📌 LinkedIn: *(Add your LinkedIn link here)*  
-📌 Email: *(Add your email here)*  
+<p align="center">
+  <img src="https://github.com/11parasf/11parasf/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ---
 
-⭐ If you like my work, consider giving a ⭐ to my repositories!
+## 📌 Daily Coding Motivation  
+
+✅ Consistency beats talent when talent doesn't work consistently.  
+✅ Discipline is the real superpower.  
+✅ Every repo is one step closer to the goal. 🚀  
+
+---
+
+## 🔗 Connect With Me  
+
+<p align="center">
+  <a href="https://github.com/11parasf">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:0e75b6&height=120&section=footer"/>
