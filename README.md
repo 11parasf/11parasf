@@ -88,7 +88,7 @@
 ## 🐍 Snake Eating My Contributions (Animation)  
 
 <p align="center">
-  <img src="https://github.com/11parasf/11parasf/blob/output/github-contribution-grid-snake.svg" />
+ <img src="https://raw.githubusercontent.com/11parasf/11parasf/output/github-contribution-grid-snake.svg" />
 
 </p>
 
