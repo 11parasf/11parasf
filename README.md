@@ -85,10 +85,10 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🌟 3D Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/11parasf/11parasf/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=11parasf&theme=tokyonight" />
 </p>
 
 
