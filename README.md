@@ -1,4 +1,4 @@
-````md
+
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:8a2be2&height=220&section=header&text=Priyanshu%20Poonia&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
@@ -153,4 +153,4 @@ I believe strong engineering skills come from:
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:0e75b6&height=120&section=footer"/>
-```
+
